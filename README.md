@@ -7,7 +7,7 @@ Text Summarization Using LangChain (OpenAI GPT)
 * Google Colab / Jupyter notebook / Pycharm
   
 # Installation
-git clone repo 
+git clone https://github.com/Rakshasv18/LangChain.git 
 
 # Contact
 * rakshav@umich.edu
